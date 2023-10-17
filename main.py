@@ -3,3 +3,9 @@ def falar(nome):
 
 def imprimirNome(nome):
     print(nome)
+
+
+
+
+def testando():
+    print("Testando local")
